@@ -1,0 +1,17 @@
+{
+  "name": "logisoft-client",
+  "version": "0.0.5",
+  "description": "Logisoft FMS Official API Client SDK",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logisoft"
+  ],
+  "author": "Mohamad Fala",
+  "license": "ISC",
+  "dependencies": {
+		"axios": "^1.1.2"
+	}
+}
